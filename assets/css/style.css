@@ -1,0 +1,176 @@
+/*Header*/
+
+.logo-link{
+    padding: 0px;
+    position: relative;
+    width: 74px;
+}
+
+.logo-link img {
+    height : 100%;
+    padding-left: 25px;
+}
+
+.navbar-header .logo-link{
+    padding: 0px;
+}
+
+.navbar-default .navbar-nav > li > a .is-active {
+    color: #000;
+}
+
+
+/*below code taken from BOOTSTRAPIOUS*/
+
+.navbar {
+  min-height: 80px;
+}
+
+.navbar-brand {
+  padding: 0 15px;
+  height: 80px;
+  line-height: 80px;
+}
+
+.navbar-toggle {
+  /* (80px - button height 34px) / 2 = 23px */
+  margin-top: 23px;
+  padding: 9px 10px !important;
+}
+
+@media (min-width: 768px) {
+  .navbar-nav > li > a {
+    /* (80px - line-height of 27px) / 2 = 26.5px */
+    padding-top: 26.5px;
+    padding-bottom: 26.5px;
+    line-height: 27px;
+  }
+}
+
+ 
+/** Home Page **/
+
+.carousel-inner .item img { 
+    width: 100%;
+    height: 700px;
+}
+
+#mainPic {
+    width: 250px;
+}
+
+.carousel {
+    margin-top: 80px;
+}
+
+/** Values Page **/
+
+.top-space {
+    margin-top: 60px;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
+
+
+
+/* Partners page */
+
+.bgimagePartner {
+  width:100%;
+  height:80vh;
+  background: url('../images/pic3.jpg') no-repeat center center fixed;
+  background-size:cover;
+  margin-top: 60px;
+}
+
+.bgimagePartner h1 {
+  color:white;
+  text-shadow:2px 2px #333;
+  height: 80vh;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  
+}
+
+/* Professionals page */
+.bgimageProfessionals {
+  width:100%;
+  height:80vh;
+  background: url('../images/pic6.jpg') no-repeat center center fixed;
+  background-size:cover;
+  margin-top: 60px;
+}
+
+.bgimageProfessionals h1 {
+  color:white;
+  text-shadow:2px 2px #333;
+  height: 80vh;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  
+}
+
+
+/* Partners */
+
+.embed-responsive{
+    height: 90vh;
+    margin-top: 80px;
+}
+
+
+/*footer*/
+
+footer {
+    padding: 20px;
+    margin-top: 0px;
+    color:black;
+    background-color: #F5F5F5; 
+    text-align: center;
+    width: 100%;
+}
+
+/*Mediaqueries*/
+
+/*below code taken from STACKOVERFLOW*/
+
+@media (max-width: 992px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-left,.navbar-right {
+        float: none !important;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-fixed-top {
+        top: 0;
+        border-width: 0 0 1px;
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin-top: 7.5px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .collapse.in{
+        display:block !important;
+    }
+}

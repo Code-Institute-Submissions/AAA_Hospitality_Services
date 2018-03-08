@@ -1,18 +1,34 @@
+# AAA HOSPITALITY SERVICES
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+## Introduction (What your project does)
+
+### How to install it
+
+#### Example Usage
+
+##### How to set up the dev environment
+
+###### How to ship a change
+
+###### Change Log
+
+###### License and author info
+
+###### what kind of project is this?
+
+###### what other files accompany this README?
+
+###### what markup is this?
+
+###### what topics does the file cover?
+
+###### what links does this file have?
+
+###### what images does the file have?
 
 
-Hi there! Welcome to Cloud9 IDE!
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
 
-Happy coding!
-The Cloud9 IDE team
+
+
+
