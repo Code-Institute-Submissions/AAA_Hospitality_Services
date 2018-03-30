@@ -1,3 +1,7 @@
+body {
+   font-family: serif;
+}
+
 /*Header*/
 
 .logo-link{
@@ -50,25 +54,41 @@
  
 /** Home Page **/
 
-.carousel-inner .item img { 
-    width: 100%;
-    height: 700px;
-}
+
 
 #mainPic {
     width: 250px;
 }
 
-.carousel {
+.embed-responsive{
+    height: 90vh;
     margin-top: 80px;
 }
 
+.capital {
+    font-size: 48px;
+}
+
+
+.info p {
+    font-size: 24px;
+}
+
+
+
 /** Values Page **/
+
+.big {
+    font-size: 32px;
+}
 
 .top-space {
     margin-top: 60px;
 }
 
+.top-space h3 {
+    font-size: 24px;
+}
 .jumbotron {
     margin-bottom: 0;
 }
@@ -77,13 +97,29 @@
 
 /* Partners page */
 
+.small p {
+    font-size: 18px;
+}
+
+.space {
+    padding-top: 40px;
+}
+
 .bgimagePartner {
   width:100%;
   height:80vh;
-  background: url('../images/pic3.jpg') no-repeat center center fixed;
+  background: url('../images/contact.jpg') no-repeat left top fixed;
   background-size:cover;
-  margin-top: 60px;
+  margin-top: 80px;
 }
+
+@media (max-width: 1024px) {
+    .bgimagePartner {
+     background: url('../images/contact.jpg') no-repeat center center fixed; 
+     background-size: cover;
+    }
+}
+
 
 .bgimagePartner h1 {
   color:white;
@@ -96,13 +132,23 @@
 }
 
 /* Professionals page */
+
+
 .bgimageProfessionals {
   width:100%;
   height:80vh;
-  background: url('../images/pic6.jpg') no-repeat center center fixed;
+  background: url('../images/professional.jpg') no-repeat left top fixed;
   background-size:cover;
   margin-top: 60px;
 }
+
+@media (max-width: 1024px) {
+    .bgimageProfessionals {
+     background: url('../images/professional.jpg') no-repeat center center fixed; 
+     background-size: cover;
+    }
+}
+
 
 .bgimageProfessionals h1 {
   color:white;
@@ -112,14 +158,6 @@
   justify-content:center;
   align-items: center;
   
-}
-
-
-/* Partners */
-
-.embed-responsive{
-    height: 90vh;
-    margin-top: 80px;
 }
 
 
@@ -133,6 +171,7 @@ footer {
     text-align: center;
     width: 100%;
 }
+
 
 /*Mediaqueries*/
 
