@@ -5,13 +5,13 @@ The author of this website has completed this project as part of his Diploma pro
 This project was first mile stone project out of five projects which are part of Diploma in Software Development course by Code Institute.
 
 ###### Tech info
-This project has been completed by using the following tecnologies: For instance, HTML5,CSS3,Bootstrap,JavaScript,jQuery,animate.css,google fonts,
-font awesome.
+This project has been completed by using the following tecnologies: 
+For instance, HTML5,CSS3,Bootstrap,JavaScript file for bootstrap,jQuery file for bootstrap,animate.css,google fonts,font awesome.
 
 ###### Acknowledgments and Special Thanks
 
-In the process of project building, I got great assistance from stackoverflow, W3Schools, and Bootstrapious. A special thanks to Mr.  for helping me
-out to attach backend files for email services.
+In the process of project building, I got great assistance from stackoverflow, W3Schools, and Bootstrapious. 
+A special thanks to Mr.Khan for helping me out to attach backend files for email services.
 
 
 ### Introduction
@@ -29,12 +29,7 @@ industry professionals) good get to know who we are, what are our core values/qu
 are different than other in the market, what we can deliver. This project was further divided into
 four pages/tabs as followed:
 
-##### Who we are
-##### Our Core Qualities
-##### Future Partners (Clients)
-##### Professionals
-
-###### Who We Are:
+##### Who We Are:
 On the first tab/page, a video has been placed which starts with the Co-Owner (Annick van
 Teeffelen) of the company, informing the purpose of the video and who else will later be picturised.
 Afterwards Managing Director (Zeeshan Muhammad) appears in the video giving an introduction of
@@ -48,7 +43,7 @@ Below the video, a paragraph which tells an introduction about the Managing Dire
 (Zeeshan Muhammad Haider) his education, overall industry experiences and reason of establishing
 AAA Hospitality Services is presented together with the picture and CV.
 
-###### Our Core Value:
+##### Our Core Value:
 Second tab/page tells a summary of the core values of the company and why future partners and
 professional should choose this organization. The core value as presented on the website are as
 below:
@@ -96,25 +91,24 @@ their experiences.
 
 
 
-###### what other files accompany this README?
 
-###### what markup is this?
 
-###### what topics does the file cover?
+
+
+
 
 ###### what links does this file have?
 
 ###### what images does the file have?
 
-### How to install it
 
-#### Example Usage
 
-##### How to set up the dev environment
 
-###### How to ship a change
 
-###### Change Log
+
+
+
+
 
 
 
