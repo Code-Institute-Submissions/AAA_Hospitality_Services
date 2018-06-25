@@ -13,7 +13,6 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"/>
         <title>AAA Hospitality Services</title>
         <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-        <script src="https://unpkg.com/vue"></script>
     </head>
     
     <body>
@@ -63,25 +62,23 @@
                                   <p>Wij maken graag een afspraak met u om uw wensen door te nemen en om ons aan u voor te stellen.</p>
                                   <h3><strong><i>Maak een Afspraak</i></strong></h3>
                                   
-                                    <div id="form" class="center-form">
+                                    <div class="center-form">
 
-                                        <form @submit.prevent="sendMail">
+                                        <form>
                                             
                                             <div class="form-group">
                                                 <label for="name">Naam</label>
-                                                <input type="text" v-model="name" class="form-control" id="name" placeholder="Name" required/>
+                                                <input type="text" class="form-control" id="name" placeholder="Name" required/>
                                             </div>  
 
                                             <div class="form-group">
                                                 <label for="email">E-mail adres</label>
-                                                <p>{{email}}</p>
-                                                <input type="emailaddress" v-model="email" class="form-control" id="emailaddress" placeholder="Email" required/>
+                                                <input type="emailaddress"class="form-control" id="email" placeholder="Email" required/>
                                             </div>
                                             
                                             <div class="form-group">
                                                 <label for="message">Bericht</label>
-                                                <p>{{message}}</p>
-                                                <textarea rows="5" name="projectsummary" v-model="message" class="form-control" id="projectsummary" placeholder="Description" required></textarea>
+                                                <textarea rows="5" name="projectsummary" class="form-control" id="message" placeholder="Description" required></textarea>
                                             </div> 
                                             
                                             <div class="form-group">
@@ -123,21 +120,6 @@
             </div>
         </footer>
     
-        <script type="text/javascript">
-            var contactForm = new Vue({
-                el: '#form',
-                data: {
-                    name: '',
-                    email:'',
-                    message:''
-                },
-                methods: {
-                    sendMail: function() {
-                        console.log(this.name, this.email, this.message, 'submitted')
-                    }
-                }
-            })
-        </script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <!-- Latest compiled and minified JavaScript -->
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
