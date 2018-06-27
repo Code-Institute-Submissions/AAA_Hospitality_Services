@@ -22,18 +22,39 @@ are different than other in the market, what we can deliver.
 
 #### Technical Information
 This project has been completed by using the following tecnologies: 
-HTML5, CSS3, Bootstrap3.7,JavaScript file for bootstrap,jQuery file for bootstrap, Animate.css, Google fonts, Font awesome.
+HTML5, CSS3, Bootstrap3.7,JavaScript file for bootstrap,jQuery file for bootstrap, Animate.css, Google Fonts, Font Awesome.
 
 
+#### Describe the features and functionality of the project?
+This project consists of four seperate pages like Who we are, Our Core Values, Future Partners, and Professionals. This project has been fulfilled all
+the requirements of the client and study module.
 
-#### Describe the functionality of the project?
+##### Who we are
+The first page opens with company video which gives complete information about company services. Afterthat, brief introduction of company's 
+managing director and company history. Bootstrap3 has been used for grid system together with html5 and css3.
+
+##### Our Core Values
+In the second page, company's core values has been explained together with few nice pictures of company employees. Bootstrap3 has been used for 
+grid system together with html5 and css3.
+
+##### Future Partners
+In this page, background picture is attached with the team of AAA Hospitality Services.Furthermore, a sliding contact foam is placed on top 
+of the background picture which add nice value and make this page special. Bootstrap3 has been used for grid system together with html5 and css3.
+
+##### Professionals
+In the last page, another background picture has been attached to attract future potiential employees. A sliding contact foam is placed for users 
+interactivity and conveience. Bootstrap3 has been used for grid system together with html5 and css3.
 
 
 #### Explain deployment and testing of this project?
+This project has been tested on small and large devices in order to check responsiveness. All the small issues fixed with the help of media
+queries. In a nutshell, final copy of this project has been deployed on GitHub-pages and Git and GitHub used
+for version control.
 
 
 #### Acknowledgments and Special Thanks
-In the process of project building, I got great assistance from stackoverflow, W3Schools, MDN and Bootstrapious.
+In the process of project building, I got great assistance from stackoverflow, W3Schools, MDN and Bootstrapious. Furthermore, I would like to pay 
+my thanks to all my tutors and mentor for thier great support and valuable assistance.
 
 
 
