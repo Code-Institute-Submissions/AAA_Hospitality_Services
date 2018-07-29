@@ -22,7 +22,7 @@ are different than other in the market, what we can deliver.
 
 #### Technical Information
 This project has been completed by using the following technologies: 
-HTML5, CSS3, Bootstrap3.7,JavaScript file for bootstrap, jQuery file for bootstrap, Animate.css, Google Fonts, Font Awesome.
+HTML5, CSS3, Bootstrap3, JavaScript file for bootstrap, jQuery file for bootstrap, Animate.css, Google Fonts, Font Awesome and Favicon icon.
 
 #### Describe the features and functionality of the project?
 This project consists of four separate pages like Who we are, Our Core Values, Future Partners, and Professionals. This project has been fulfilled all
@@ -47,13 +47,15 @@ interactivity and convenience. Bootstrap3 has been used for grid system together
 
 #### Explain deployment and testing of this project?
 This project has been tested on small and large devices in order to check responsiveness. All the small issues fixed with the help of media
-queries. In a nutshell, final copy of this project has been deployed on GitHub-pages and Git and GitHub used
-for version control.
+queries. Furthermore, this project has been tested on different browers like chrome, safari, mozilla firefox, and internet explorer. 
+In a nutshell, final copy of this project has been deployed on GitHub-pages and Git and GitHub used for version control.
 
 
 #### Acknowledgments and Special Thanks
 In the process of project building, I got great assistance from stackoverflow, W3Schools, MDN and Bootstrapious. Furthermore, I would like to pay 
 my thanks to all my tutors and mentor for their great support and valuable assistance.
+
+
 
 
 
