@@ -2,7 +2,7 @@ body {
    font-family: serif;
 }
 
-/*Header*/
+/*****Header*****/
 
 .logo-link{
     padding: 0px;
@@ -11,6 +11,7 @@ body {
 }
 
 .logo-link img {
+    width: 200px;
     height : 100%;
     padding-left: 25px;
 }
@@ -42,17 +43,8 @@ body {
   padding: 9px 10px !important;
 }
 
-@media (min-width: 768px) {
-  .navbar-nav > li > a {
-    /* (80px - line-height of 27px) / 2 = 26.5px */
-    padding-top: 26.5px;
-    padding-bottom: 26.5px;
-    line-height: 27px;
-  }
-}
-
  
-/** Home Page **/
+/***** Home Page *****/
 
 
 
@@ -76,7 +68,7 @@ body {
 
 
 
-/** Values Page **/
+/***** Values Page *****/
 
 .big {
     font-size: 32px;
@@ -89,13 +81,17 @@ body {
 .top-space h3 {
     font-size: 24px;
 }
+
+.top-space img {
+    width: 225px;
+}
 .jumbotron {
     margin-bottom: 0;
 }
 
 
 
-/* Partners page */
+/***** Partners page *****/
 
 .small p {
     font-size: 18px;
@@ -113,15 +109,9 @@ body {
   margin-top: 80px;
 }
 
-@media (max-width: 1024px) {
-    .bgimagePartner {
-     background: url('../images/contact.jpg') no-repeat center center fixed; 
-     background-size: cover;
-    }
-}
-
 
 .bgimagePartner h1 {
+  font-size: 50px;
   color:white;
   text-shadow:2px 2px #333;
   height: 80vh;
@@ -131,7 +121,7 @@ body {
   
 }
 
-/* Professionals page */
+/***** Professionals page *****/
 
 
 .bgimageProfessionals {
@@ -142,15 +132,10 @@ body {
   margin-top: 60px;
 }
 
-@media (max-width: 1024px) {
-    .bgimageProfessionals {
-     background: url('../images/professional.jpg') no-repeat center center fixed; 
-     background-size: cover;
-    }
-}
 
 
 .bgimageProfessionals h1 {
+  font-size: 50px;
   color:white;
   text-shadow:2px 2px #333;
   height: 80vh;
@@ -161,7 +146,7 @@ body {
 }
 
 
-/*footer*/
+/*****footer*****/
 
 footer {
     padding: 20px;
@@ -173,7 +158,19 @@ footer {
 }
 
 
-/*Mediaqueries*/
+/*****Mediaqueries*****/
+
+/*below code taken from BOOTSTRAPIOUS*/
+
+@media (min-width: 768px) {
+  .navbar-nav > li > a {
+    /* (80px - line-height of 27px) / 2 = 26.5px */
+    padding-top: 26.5px;
+    padding-bottom: 26.5px;
+    line-height: 27px;
+  }
+  
+}
 
 /*below code taken from STACKOVERFLOW*/
 
@@ -212,4 +209,23 @@ footer {
     .collapse.in{
         display:block !important;
     }
+}
+
+/*End code taken from STACKOVERFLOW*/
+
+
+
+@media (max-width: 1024px) {
+    
+    .bgimagePartner {
+     background: url('../images/contact.jpg') no-repeat center center fixed; 
+     background-size: cover;
+    }
+    
+    .bgimageProfessionals {
+     background: url('../images/professional.jpg') no-repeat center center fixed; 
+     background-size: cover;
+    }
+    
+    
 }
