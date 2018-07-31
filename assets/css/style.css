@@ -2,7 +2,10 @@ body {
    font-family: 'IBM Plex Serif', serif;
 }
 
-/********Header********/
+
+/********************
+* HEADER
+*/ 
 
 .logo-link{
     padding: 0px;
@@ -33,7 +36,11 @@ body {
     color: #000;
 }
  
-/********Home Page********/
+
+
+/********************
+* INDEX PAGE
+*/ 
 
 
 
@@ -56,7 +63,11 @@ body {
 }
 
 
-/********Values Page********/
+
+
+/********************
+* VALUES PAGE
+*/ 
 
 .big {
     font-size: 32px;
@@ -92,7 +103,10 @@ body {
 
 
 
-/********Partners page********/
+
+/********************
+* PARTNERS PAGE
+*/ 
 
 .small p {
     font-size: 20px;
@@ -126,7 +140,10 @@ body {
   
 }
 
-/********Professionals page********/
+
+/********************
+* PROFESSIONALS PAGE
+*/ 
 
 
 .bgimageProfessionals {
@@ -156,7 +173,10 @@ body {
 
 
 
-/********Footer********/
+
+/********************
+* FOOTER
+*/ 
 
 footer {
     padding: 20px;
@@ -168,7 +188,10 @@ footer {
 }
 
 
-/********Mediaqueries********/
+
+/********************
+* MEDIAQUERIES
+*/ 
 
 
 @media (max-width: 992px) {
@@ -202,6 +225,4 @@ footer {
      background: url('../images/professional.jpg') no-repeat center center fixed; 
      background-size: cover;
     }
-    
-    
 }
