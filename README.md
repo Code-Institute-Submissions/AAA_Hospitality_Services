@@ -34,7 +34,7 @@ used for functionality. Furthermore, company logo has been used as a favicon ico
 
 ##### Who we are
 The first page opens with company video which gives complete information about company services. After that, brief introduction of company's 
-managing director and company history. Bootstrap3 has been used for grid system together with google fonts (Lato) for website content.
+managing director and company history. Bootstrap3 has been used for grid system together with google fonts ('IBM Plex Serif', serif) for website content.
 
 ##### Our Core Values
 In the second page, company's core values has been explained together with few nice pictures of company employees. Bootstrap3 has been used for 
@@ -48,16 +48,28 @@ of the background picture which add nice value and make this page special. Furth
 In the last page, another background picture has been attached to attract future potential employees. A sliding contact form is placed for users 
 convenience. Furthermore, font awesome icons has been used to make the page more catching.
 
-
 #### Explain deployment and testing of this project?
 This project has been tested on small and large devices in order to check responsiveness. All the responsiveness issues fixed with the help of media
-queries. Furthermore, this project has been tested on different browers like chrome, safari, mozilla firefox, and internet explorer. 
+queries. Furthermore, this project has been tested on different browsers like Chrome, Safari, Mozilla Firefox, and Internet Explorer. 
 In a nutshell, final copy of this project has been deployed on GitHub-pages and Git and GitHub used for version control.
 
 
 #### Acknowledgments and Special Thanks
-In the process of project building, I got great assistance from stackoverflow, W3Schools, MDN. Furthermore, I would like to pay 
+In the process of project building, I got great assistance from Stack overflow, W3Schools, MDN. Furthermore, I would like to pay 
 my thanks to all my tutors and mentor for their great support and valuable assistance.
+
+
+
+
+In a nutshell, website's functionality has been checked on multiply devices and different browsers. Furthermore, all the code has been verified by 
+html validator and there is no more errors left in this project.
+
+
+                                              
+
+
+
+
 
 
 
