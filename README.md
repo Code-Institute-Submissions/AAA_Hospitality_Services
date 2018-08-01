@@ -50,8 +50,9 @@ convenience. Furthermore, font awesome icons has been used to make the page more
 
 #### Explain deployment and testing of this project?
 This project has been tested on small and large devices in order to check responsiveness. All the responsiveness issues fixed with the help of media
-queries. Furthermore, this project has been tested on different browsers like Chrome, Safari, Mozilla Firefox, and Internet Explorer. 
-In a nutshell, final copy of this project has been deployed on GitHub-pages and Git and GitHub used for version control.
+queries. Furthermore, this project has been tested on different browsers like Chrome, Safari, Mozilla Firefox, and Internet Explorer. All the links, video 
+and form validation have been tested by author and all works fine.
+In a nutshell, final copy of this project has been deployed on GitHub-pages. Git and GitHub used for version control.
 
 
 #### Acknowledgments and Special Thanks
@@ -62,7 +63,7 @@ my thanks to all my tutors and mentor for their great support and valuable assis
 
 
 In a nutshell, website's functionality has been checked on multiply devices and different browsers. Furthermore, all the code has been verified by 
-html validator and there is no more errors left in this project.
+html and css validators and there is no more errors left in the project.
 
 
                                               
