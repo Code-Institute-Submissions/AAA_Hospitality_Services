@@ -1,10 +1,5 @@
 ### Project Name:  AAA HOSPITALITY SERVICES
 
-#### Author Info
-The author of this website has completed this project as part of his Diploma programme.
-This project is first mile stone project out of five projects which are part of Diploma in Software Development course by Code Institute.
-
-
 ### Introduction
 AAA Hospitality Services is a young and ambitious company which is aiming to provide hotel
 professionals to hospitality industry. Our professionals deliver the high-quality services to all stake
@@ -58,8 +53,6 @@ In a nutshell, final copy of this project has been deployed on GitHub-pages. Git
 #### Acknowledgments and Special Thanks
 In the process of project building, I got great assistance from Stack overflow, W3Schools, MDN. Furthermore, I would like to pay 
 my thanks to all my tutors and mentor for their great support and valuable assistance.
-
-
 
 
 In a nutshell, website's functionality has been checked on multiply devices and different browsers. Furthermore, all the code has been verified by 
