@@ -112,12 +112,16 @@ body {
     font-size: 20px;
 }
 
+.extraSmall {
+    padding-top: 40px;
+}
+
 .extraSmall p {
-    font-size: 18px;
+    font-size: 14px;
 }
 
 .space {
-    padding-top: 70px;
+    padding-top: 80px;
 }
 
 .bgimagePartner {
@@ -171,9 +175,6 @@ body {
     font-size: 20px;
 }
 
-
-
-
 /********************
 * FOOTER
 */ 
@@ -212,6 +213,9 @@ footer {
         font-size: 13px;
         margin-right: 0px;
     }
+    .space {
+        padding-top: 50px;
+}
 }
 
 @media (max-width: 1024px) {
