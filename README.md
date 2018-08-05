@@ -43,7 +43,7 @@ of the background picture which add nice value and make this page special. Furth
 In the last page, another background picture has been attached to attract future potential employees. A sliding contact form is placed for users 
 convenience. Furthermore, font awesome icons has been used to make the page more catching.
 
-#### Explain deployment and testing of this project?
+#### Explain testing and deployment of the project?
 This project has been tested on small and large devices in order to check responsiveness. All the responsiveness issues fixed with the help of media
 queries. Furthermore, this project has been tested on different browsers like Chrome, Safari, Mozilla Firefox, and Internet Explorer. All the links, video 
 and form validation have been tested by author and all works fine.
